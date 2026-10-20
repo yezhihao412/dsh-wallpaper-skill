@@ -1,0 +1,3 @@
+﻿# 由 deploy.ps1 生成（内含 base64 图片）
+plugin/client.js
+*.dmp
